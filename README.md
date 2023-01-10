@@ -9,12 +9,14 @@ Otherwise
 on Linux/MacOS:
 
 export FLASK_APP=main.py
+
 flask run
 
 
 on Windows:
 
 set FLASK_APP=main.py
+
 flask run
 
 
